@@ -1,0 +1,9 @@
+# Publish only these reviewed source files. Ignore runtime state and everything else.
+/*
+!/.gitignore
+!/AccountStore.ps1
+!/Switcher.ps1
+!/Start Switcher.cmd
+!/Test-AccountStore.ps1
+!/README.md
+!/LICENSE
